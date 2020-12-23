@@ -2,4 +2,6 @@
 
 Flappy bird clone created in Python!
 
-avoid the pipes and get the high score!!!
+Use Spacebar to start your game and to fly!!
+
+Avoid the pipes and get the high score!!!
